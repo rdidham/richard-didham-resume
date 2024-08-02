@@ -61,32 +61,34 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.skills.list]]
-        title = "Languages"
+        title = "Languages and Frameworks"
         [[params.skills.list.items]]
-        details = "Python"
+        details = "Python, JavaScript, C#, Java, SQL"
         [[params.skills.list.items]]
-        details = "JavaScript"
+        details = "Django, React, .Net Core, Boostrap, Material UI, DataTables"
+        
+        [[params.skills.list]]
+        title = "DevOps"
         [[params.skills.list.items]]
-        details = "Node.js/ASP.NET"
+        details = "Docker Containers, Kubernetes, Openshift"
         [[params.skills.list.items]]
-        details = "PostgreSQL/MySQL"
+        details = "Gitlab CI/CD, VMware Tanzu, Github Actions"
+
+        [[params.skills.list]]
+        title = "Web Security"
         [[params.skills.list.items]]
-        details = "Object-oriented design"
+        details = "Token authentication"
         [[params.skills.list.items]]
-        details = "Design and implement database structures"
-        [[params.skills.list.items]]
-        details = "Lead and deliver complex software systems"
+        details = "Session authentication"
 
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
-        details = "Effective communication"
+        details = "Full-stack development"
         [[params.skills.list.items]]
-        details = "Team player"
+        details = "Technical leadership"
         [[params.skills.list.items]]
-        details = "Strong problem solver"
-        [[params.skills.list.items]]
-        details = "Good time management"
+        details = "Enterprise InnerSource"
 
 
 
@@ -150,15 +152,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "**Core tech stack:** Django, PostgreSQL, S3 Storage, Boostrap, DataTables, Gitlab CI/CD, Docker, Openshift"
         [[params.experience.list.items]]
-        details = "Design allows web apps and accompanying APIs to be generated dynamically from a simple definition of the needed data schema"
+        details = "Fully functioning web apps and APIs are generated dynamically from a simple definition of the needed data schema"
         [[params.experience.list.items]]
-        details = "Currently 16 applications have been deployed serving teams across a variety of engineering disciplines (200+ users)"
+        details = "Allows new teams can go from zero to a deployed production application in a matter of hours"
         [[params.experience.list.items]]
-        details = "Promoted strong documentation practices which enabled teams to develop and deploy apps without needing a single meeting"
+        details = "to date 16 applications have been deployed, serving 200+ users across a variety of engineering disciplines"
+        [[params.experience.list.items]]
+        details = "Promoted strong documentation practices which has allowed teams to develop and deploy apps without needing a single meeting with maintainers"
         [[params.experience.list.items]]
         details = "Led a team of 3 developers: ran daily standups, managed task board, coordinated with customers"
         [[params.experience.list.items]]
-        details = "Presented novel aspects of the project at BTEC 2024, Boeing’s annual internal conference on technology developed within the company (< 30% of abstract submissions are accepted)"
+        details = "Presented novel aspects of the project at BTEC, an annual internal conference which highlights technology developed within Boeing (< 30% of submissions are accepted)"
 
 
 
@@ -205,7 +209,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list.items]]
         details = "Beta version in use by professional sailors "
         [[params.projects.list.items]]
-        details = "Optimized for performance, processing 7,000 5MB images in 30 minutes on a typical notebook"
+        details = "Optimized for performance: processes 7,000 5MB images in 30 minutes on a typical notebook"
         [[params.projects.list.items]]
         details = "MVP architecture with comprehensive test coverage"
 
