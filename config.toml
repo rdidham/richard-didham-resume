@@ -31,7 +31,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "I am a full-stack developer with a strong interest in engineering applications."
+        text = "I am an experienced full-stack developer with an academic background in numerical methods and computational mechanics. Passionate about leveraging my expertise in these areas to tackle complex, data-intensive problems in software development."
 
 
 
