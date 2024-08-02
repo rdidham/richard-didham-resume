@@ -143,18 +143,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Full-Stack Developer III"
-        dates = "2022 - Present"
+        title = "Senior Full-Stack Developer"
+        dates = "Sept 2022 - Present"
         company = "Boeing Research and Technology"
         details = "Led development of a multi-tenant, cloud-based platform and InnerSource code base which allows teams to rapidly deploy web apps to store engineering data."
         [[params.experience.list.items]]
         details = "**Core tech stack:** Django, PostgreSQL, S3 Storage, Boostrap, DataTables, Gitlab CI/CD, Docker, Openshift"
         [[params.experience.list.items]]
-        details = "Web apps with accompanying APIs are generated dynamically from a simple definition of a data schema"
+        details = "Design allows web apps and accompanying APIs to be generated dynamically from a simple definition of the needed data schema"
         [[params.experience.list.items]]
         details = "Currently 16 applications have been deployed serving teams across a variety of engineering disciplines (200+ users)"
         [[params.experience.list.items]]
-        details = "Promoted strong documentation practices which has enabled teams to develop and deploy apps without a single meeting"
+        details = "Promoted strong documentation practices which enabled teams to develop and deploy apps without needing a single meeting"
         [[params.experience.list.items]]
         details = "Led a team of 3 developers: ran daily standups, managed task board, coordinated with customers"
         [[params.experience.list.items]]
@@ -163,45 +163,30 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
         [[params.experience.list]]
-        title = "Lead Software Developer"
-        dates = "2016 - 2019"
+        title = "Full-Stack Developer"
+        dates = "July 2021 – Sept 2022"
         company = "Boeing Research and Technology"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        details = "Contributed to a desktop C# application which automates repetitive test planning and engineering tasks."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "**Core tech stack:** .Net Core, React, Material UI, Node.js, Gitlab CI/CD, VMware Tanzu, SQL Server"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Developed an admin web UI and accompanying REST backend for better access to the desktop app’s SQL database"
+        [[params.experience.list.items]]
+        details = "Built CI/CD pipelines to deploy both the admin UI and REST backend to Tanzu cloud platform"
+        [[params.experience.list.items]]
+        details = "Implemented major overhauls to reduce latency and eliminate race conditions in the desktop app"
+        
 
         [[params.experience.list]]
-        title = "Senior Software Developer"
-        dates = "2014 - 2016"
+        title = "Structures Research Engineer "
+        dates = "July 2019 – July 2021"
         company = "Boeing Research and Technology"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-
-        [[params.experience.list]]
-        title = "Senior Developer"
-        dates = "2013 - 2014"
-        company = "Uber"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
-
-        [[params.experience.list]]
-        title = "Backend Developer"
-        dates = "2014 - 2016"
-        company = "Amazon"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-
-        [[params.experience.list]]
-        title = "Frontend Developer"
-        dates = "2013 - 2014"
-        company = "Startup"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
-
-
-
-
-
-
-
+        [[params.experience.list.items]]
+        details = "Developed Python tools to process results from Finite Element Analysis (FEA) simulations"
+        [[params.experience.list.items]]
+        details = "Conducted various static and dynamic non-linear FEA simulations"
+        [[params.experience.list.items]]
+        details = "Developed a Python library which converted between FEA element strains and node displacements for a machine learning project using graph neural networks to predict structural vibration"
 
 
 
@@ -210,42 +195,20 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
+        title = "Sail Scan"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "Computer vision application which uses color based image thresholding to analyze sail shape on high performance sailboats."
+        [[params.projects.list.items]]
+        details = "**Core Tech Stack:** Core tech stack: OpenCV, Python multiprocessing, Tkinter, pytest"
+        [[params.projects.list.items]]
+        details = "Allows sailors to better characterize their setup and quantitatively assess changes to sail shape"
+        [[params.projects.list.items]]
+        details = "Beta version in use by professional sailors "
+        [[params.projects.list.items]]
+        details = "Optimized for performance, processing 7,000 5MB images in 30 minutes on a typical notebook"
+        [[params.projects.list.items]]
+        details = "MVP architecture with comprehensive test coverage"
 
-        [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-
-        [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-
-
-
-
-
-
-
-
-
-
-    [params.information]
-        enable = true
-
-        [[params.information.list]]
-        title = "Papers"
-        [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
-        [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
-
-        [[params.information.list]]
-        title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
 
 
 
