@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Hugo Build",
+            "type": "shell",
+            "command": "hugo --cleanDestinationDir --minify"
+        }
+    ]
+}

@@ -1,6 +1,8 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = ""
+relativeURLs = true
+uglyURLs = true
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
@@ -31,8 +33,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "I am an experienced full-stack developer with an academic background in numerical methods and computational mechanics. Passionate about leveraging my expertise in these areas to tackle complex, data-intensive problems in software development."
-
+        text = "I am an experienced full-stack developer with an academic background in numerical methods and mechanical engineering. I'm interested in leveraging my expertise in these areas to tackle complex, data-intensive problems in software development."
 
 
 
@@ -88,7 +89,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Technical leadership"
         [[params.skills.list.items]]
-        details = "Enterprise InnerSource"
+        details = "InnerSource maintenance"
 
 
 
@@ -148,7 +149,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Senior Full-Stack Developer"
         dates = "Sept 2022 - Present"
         company = "Boeing Research and Technology"
-        details = "Led development of a multi-tenant, cloud-based platform and InnerSource code base which allows teams to rapidly deploy web apps to store engineering data."
+        details = "Led development of a multi-tenant, cloud-based platform and InnerSource code base which allows teams to rapidly build and deploy web apps to store engineering data."
         [[params.experience.list.items]]
         details = "**Core tech stack:** Django, PostgreSQL, S3 Storage, Boostrap, DataTables, Gitlab CI/CD, Docker, Openshift"
         [[params.experience.list.items]]
@@ -156,7 +157,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Allows new teams can go from zero to a deployed production application in a matter of hours"
         [[params.experience.list.items]]
-        details = "to date 16 applications have been deployed, serving 200+ users across a variety of engineering disciplines"
+        details = "To date 16 applications have been deployed, serving 200+ users across a variety of engineering disciplines"
         [[params.experience.list.items]]
         details = "Promoted strong documentation practices which has allowed teams to develop and deploy apps without needing a single meeting with maintainers"
         [[params.experience.list.items]]
