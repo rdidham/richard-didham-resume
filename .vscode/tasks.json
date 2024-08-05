@@ -6,5 +6,10 @@
             "type": "shell",
             "command": "hugo --cleanDestinationDir --minify"
         }
+        {
+            "label": "PDF Convert",
+            "type": "shell",
+            "command": "cd public; wkhtmltopdf --enable-local-file-access index.html output.pdf"
+        }
     ]
 }
