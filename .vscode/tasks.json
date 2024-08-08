@@ -5,11 +5,11 @@
             "label": "Hugo Build",
             "type": "shell",
             "command": "hugo --cleanDestinationDir --minify"
-        }
+        },
         {
-            "label": "PDF Convert",
+            "label": "Hugo Build to PDF",
             "type": "shell",
-            "command": "cd public; wkhtmltopdf --enable-local-file-access index.html output.pdf"
+            "command": "hugo --cleanDestinationDir --minify; cd public; wkhtmltopdf --enable-local-file-access index.html output.pdf"
         }
     ]
 }
