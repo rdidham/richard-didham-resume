@@ -201,7 +201,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.projects.list]]
         title = "Sail Scan"
-        meta = "Open Source"
+        meta = "Repo access available upon request"
         details = "Computer vision application which uses color based image thresholding to analyze sail shape on high performance sailboats."
         [[params.projects.list.items]]
         details = "**Core Tech Stack:** Core tech stack: OpenCV, Python multiprocessing, Tkinter, pytest"
