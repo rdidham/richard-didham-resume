@@ -14,5 +14,5 @@ Install `hugo-extended` cli:
 - Right click on page > Print...
 - Destination > Save as PDF
 - Margins > Custom > Set top, left, and right margins to 0.25"
-- Check the "Background Graphics" check box
+- Check the "Background Graphics" checkbox
 - Uncheck the "Headers and footers" checkbox
