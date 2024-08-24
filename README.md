@@ -1,5 +1,7 @@
 # Resume for Richard Didham
 
+Resume built using the [Hugo dev resume theme](https://github.com/cowboysmall-tools/hugo-devresume-theme)
+
 ## Setup
 
 Install `hugo-extended` cli:
