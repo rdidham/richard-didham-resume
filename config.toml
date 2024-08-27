@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = ""
+baseURL = "https://rdidham.github.io/"
 relativeURLs = true
 uglyURLs = true
 languageCode = "en"
