@@ -146,7 +146,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Full-Stack Developer"
+        title = "Software Engineer L3"
         dates = "Sept 2022 - Present"
         company = "Boeing Research and Technology"
         details = "Led development of a multi-tenant, cloud-based platform and InnerSource code base which allows teams to rapidly build and deploy web apps to store engineering data."
@@ -168,22 +168,21 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
         [[params.experience.list]]
-        title = "Full-Stack Developer"
+        title = "Software Engineer L2"
         dates = "July 2021 – Sept 2022"
         company = "Boeing Research and Technology"
-        details = "Contributed to a desktop C# application which automates repetitive test planning and engineering tasks."
+        details = "Built microservices to accompany a desktop C# application which automates repetitive test planning and engineering tasks."
         [[params.experience.list.items]]
         details = "**Core tech stack:** .Net Core, React, Material UI, Node.js, Gitlab CI/CD, VMware Tanzu, SQL Server"
         [[params.experience.list.items]]
         details = "Developed an admin web UI and accompanying REST backend for better access to the desktop app’s SQL database"
         [[params.experience.list.items]]
-        details = "Built CI/CD pipelines to deploy both the admin UI and REST backend to Tanzu cloud platform"
-        [[params.experience.list.items]]
-        details = "Implemented major overhauls to reduce latency and eliminate race conditions in the desktop app"
+        details = "Implemented  CI/CD pipelines to deploy both the admin UI and REST backend to Tanzu cloud platform"
+
         
 
         [[params.experience.list]]
-        title = "Structures Research Engineer "
+        title = "Structures Research Engineer L2"
         dates = "July 2019 – July 2021"
         company = "Boeing Research and Technology"
         [[params.experience.list.items]]
