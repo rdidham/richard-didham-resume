@@ -203,15 +203,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         meta = "Repo access available upon request"
         details = "Computer vision application which uses color based image thresholding to analyze sail shape on high performance sailboats."
         [[params.projects.list.items]]
-        details = "**Core Tech Stack:** Core tech stack: OpenCV, Python multiprocessing, Tkinter, pytest"
+        details = "**Core Tech Stack:** Core tech stack: OpenCV, Python multiprocessing, Tkinter, Mkdocs, pytest"
         [[params.projects.list.items]]
         details = "Allows sailors to better characterize their setup and quantitatively assess changes to sail shape"
         [[params.projects.list.items]]
         details = "Beta version in use by professional sailors "
         [[params.projects.list.items]]
         details = "Optimized for performance: processes 7,000 5MB images in 30 minutes on a typical notebook"
-        [[params.projects.list.items]]
-        details = "MVP architecture with comprehensive test coverage"
+
 
 
 
