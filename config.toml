@@ -40,7 +40,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "Los Angeles"
+        location = "Long Beach, CA"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
@@ -139,7 +139,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Software Engineer L3"
-        dates = "Sept 2022 - Present"
+        dates = "Sept 2022 - Sept 2025"
         company = "Boeing Research and Technology"
         details = "Led development of Coast: a multi-tenant, cloud-based platform and InnerSource code base which allows teams to rapidly build and deploy web apps to store engineering data."
         [[params.experience.list.items]]
@@ -149,7 +149,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Allows new teams can go from zero to a deployed production application in a matter of hours"
         [[params.experience.list.items]]
-        details = "To date 29 applications have been deployed, serving 500+ users across a variety of engineering disciplines"
+        details = "To date 52 applications have been deployed, serving 500+ monthly users across a variety of business functions"
         [[params.experience.list.items]]
         details = "Promoted strong documentation practices which has allowed teams to develop and deploy apps without needing a single meeting with maintainers"
         [[params.experience.list.items]]
