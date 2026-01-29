@@ -138,8 +138,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
+        title = "Software Engineer L4"
+        dates = "Nov 2025 - Present"
+        company = "Boeing Technology Innovation"
+        [[params.experience.list.items]]
+        details = "Embedded within an engineering team to stabilize execution and ensure completion of critical deliverables under tight deadlines"
+        [[params.experience.list.items]]
+        details = "Provided technical guidance to improve the application's database schema, code quality, and testing"
+        
+        [[params.experience.list]]
         title = "Software Engineer L3"
-        dates = "Sept 2022 - Sept 2025"
+        dates = "Sept 2022 - Nov 2025"
         company = "Boeing Research and Technology"
         details = "Led development of Coast: a multi-tenant, cloud-based platform and InnerSource code base which allows teams to rapidly build and deploy web apps to store engineering data."
         [[params.experience.list.items]]
@@ -149,7 +158,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Allows new teams can go from zero to a deployed production application in a matter of hours"
         [[params.experience.list.items]]
-        details = "To date 52 applications have been deployed, serving 500+ monthly users across a variety of business functions"
+        details = "To date 52 applications have been deployed, serving 500+ monthly users across boeing"
         [[params.experience.list.items]]
         details = "Promoted strong documentation practices which has allowed teams to develop and deploy apps without needing a single meeting with maintainers"
         [[params.experience.list.items]]
