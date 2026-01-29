@@ -200,7 +200,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "Sail Scan"
+        title = "Sailemetry"
         meta = "Repo access available upon request"
         details = "Computer vision application which uses color based image thresholding to analyze sail shape on high performance sailboats."
         [[params.projects.list.items]]
@@ -208,7 +208,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list.items]]
         details = "Allows sailors to better characterize their setup and quantitatively assess changes to sail shape"
         [[params.projects.list.items]]
-        details = "Beta version in use by professional sailors "
+        details = "Beta version in use by multiple professional sailing teams"
         [[params.projects.list.items]]
         details = "Optimized for performance: processes 7,000 5MB images in 30 minutes on a typical notebook"
 
