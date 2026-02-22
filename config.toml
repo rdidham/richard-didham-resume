@@ -142,7 +142,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "Nov 2025 - Present"
         company = "Boeing Technology Innovation"
         [[params.experience.list.items]]
-        details = "Embedded within an engineering team to stabilize execution and ensure completion of critical deliverables under tight deadlines"
+        details = "Embedded into new team to stabilize execution and ensure completion of critical deliverables"
         [[params.experience.list.items]]
         details = "Provided technical guidance to improve the application's database schema, code quality, and testing"
         
